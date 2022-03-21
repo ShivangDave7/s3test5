@@ -1,0 +1,9 @@
+
+ @font-face { src: url("assets/fonts/montserratlight300.ttf"); font-family : "Montserrat"; font-style : Light; font-weight : 300;  }
+ @font-face { src: url("assets/fonts/montserratmedium500.ttf"); font-family : "Montserrat"; font-style : Medium; font-weight : 500;  }
+ @font-face { src: url("assets/fonts/montserratbold700.ttf"); font-family : "Montserrat"; font-style : Bold; font-weight : 700;  }
+ @font-face { src: url("assets/fonts/montserratregular400.ttf"); font-family : "Montserrat"; font-style : Regular; font-weight : 400;  }
+ @font-face { src: url("assets/fonts/montserratsemibold600.ttf"); font-family : "Montserrat"; font-style : SemiBold; font-weight : 600;  }
+ @font-face { src: url("assets/fonts/opensansopensans400.ttf"); font-family : "Open Sans"; font-style : OpenSans; font-weight : 400;  }
+ @font-face { src: url("assets/fonts/poppinsbold700.ttf"); font-family : "Poppins"; font-style : Bold; font-weight : 700;  }
+ @font-face { src: url("assets/fonts/poppinsmedium500.ttf"); font-family : "Poppins"; font-style : Medium; font-weight : 500;  }
